@@ -12,6 +12,7 @@ This is  a arobust classification method that extends the classical paradigm of 
 | border          | 37.75% |
 ## **RESULT 2:**
 | NOISE_LEVEL_2   | PMF    |
+| --------------- | ------ |
 | grid            | 75.00% |
 | salt and pepper | 78.50% |
 | patches         | 71.00% |
