@@ -18,3 +18,8 @@ This is  a arobust classification method that extends the classical paradigm of 
 | deletion        | 57.00% |
 | clutter         | 37.00% |
 | border          | 22.75% |
+
+The process of the training process of our method:
+![train](https://github.com/pengsuhua/PMF_OMNIGLOT/assets/116246948/53f07f6f-e1cf-401f-bd2b-caf5ef4cf2c1)
+The process of the testing process of our method:
+![test](https://github.com/pengsuhua/PMF_OMNIGLOT/assets/116246948/4a87bde1-3b0e-4d3b-ba66-8b56086ee1ad)
