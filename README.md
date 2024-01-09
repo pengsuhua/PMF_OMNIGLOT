@@ -1,7 +1,7 @@
 # PMF_OMNIGLOT
 This is  a arobust classification method that extends the classical paradigm of robust geometric model fitting.
 
-**RESULT 1：**
+##**RESULT 1：**
 | NOISE_LEVEL_1   | PMF    |
 | --------------- | ------ |
 | grid            | 70.00% |
@@ -10,7 +10,7 @@ This is  a arobust classification method that extends the classical paradigm of 
 | deletion        | 68.43% |
 | clutter         | 63.05% |
 | border          | 37.75% |
-**RESULT 2:**
+##**RESULT 2:**
 | NOISE_LEVEL_2   | PMF    |
 | grid            | 75.00% |
 | salt and pepper | 78.50% |
@@ -19,7 +19,9 @@ This is  a arobust classification method that extends the classical paradigm of 
 | clutter         | 37.00% |
 | border          | 22.75% |
 
-The process of the training process of our method:
+##**The process of the training process of our method:**
 ![train](https://github.com/pengsuhua/PMF_OMNIGLOT/assets/116246948/53f07f6f-e1cf-401f-bd2b-caf5ef4cf2c1)
-The process of the testing process of our method:
+##**The process of the testing process of our method:**
 ![test](https://github.com/pengsuhua/PMF_OMNIGLOT/assets/116246948/4a87bde1-3b0e-4d3b-ba66-8b56086ee1ad)
+##**some character models reconstructed from noise-contaminated characters:**
+![generate_model](https://github.com/pengsuhua/PMF_OMNIGLOT/assets/116246948/8f45f3ec-36cb-4b64-94a8-082d5f077dba)
