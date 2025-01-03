@@ -12,12 +12,6 @@ this paper, the probabilistic program is used to generate characters. That is, a
 
 ## Comparative Experiments
 our comparative analysis involves: (1) a comparison with the Bayesian probabilistic program (BPL)[1] method ; and (2) a comparison with deep learning based few-shot image classification methods [2]-[13].
-### **RESULT 1：**
-![noise_level_1_result](https://github.com/user-attachments/assets/f62e4b31-3a83-459c-8872-5ea4a689a734)
-### **RESULT 2:**
-![noise_level_2_result](https://github.com/user-attachments/assets/c6a3339f-0fa4-42c4-8eef-fddb5759b718)
-### **some character models reconstructed from noise-contaminated characters:**
-![generate_model](https://github.com/pengsuhua/PMF_OMNIGLOT/assets/116246948/8f45f3ec-36cb-4b64-94a8-082d5f077dba)
 ## Conclusion
 The experimental results collectively demonstrate the superior performance of the PMF method across various noise conditions, especially in handling grid, salt-and-pepper, patches, and deletion noises. Not only did PMF outperform several comparative methods at noise level 1, but it also maintained a high classification accuracy when the noise level was elevated to the second stage, indicating its remarkable robustness.
 
